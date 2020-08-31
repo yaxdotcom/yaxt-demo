@@ -2,6 +2,7 @@ yax_version: 1.0.0
 files:
 - index.html
 - README.md
+- render.yaml
 - assets:
   - styles:
     - tufte.css
