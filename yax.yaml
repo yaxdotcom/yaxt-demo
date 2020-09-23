@@ -1,4 +1,11 @@
 yax_version: 1.0.0
+template_id: yax-template-demo
+template_title: 'The First Yax Template'
+category: tiny_sites
+description: 'Nothing could be simpler. Clean, standards-based HTML with on-page editing.'
+template_img: https://assets.yax.com/images/templates/yax-template-demo.png
+author: 'the Yax team'
+author_img: https://assets.yax.com/images/icons/yax.jpg
 files:
 - index.html
 - README.md
