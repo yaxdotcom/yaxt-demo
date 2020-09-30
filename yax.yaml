@@ -10,6 +10,4 @@ files:
 - index.html
 - README.md
 - render.yaml
-- assets:
-  - styles:
-    - tufte.css
+- assets/styles/tufte.css
