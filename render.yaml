@@ -2,3 +2,4 @@ services:
 - type: web
   name: repository
   env: static
+  staticPublishPath: .
